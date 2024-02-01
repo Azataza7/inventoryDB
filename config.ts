@@ -8,8 +8,8 @@ const config = {
     mysql: {
         host: 'localhost',
         user: 'root',
-        database: '',
-        password: '',
+        database: 'inventory_database',
+        password: '4t3a2z1azver',
     }
 }
 
